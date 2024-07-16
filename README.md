@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0041-first-missing-positive](https://github.com/EJustice1/Leetcode/tree/master/0041-first-missing-positive) |
 | [0209-minimum-size-subarray-sum](https://github.com/EJustice1/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/EJustice1/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/EJustice1/Leetcode/tree/master/0724-find-pivot-index) |
 ## Binary Search
 |  |
 | ------- |
@@ -84,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/EJustice1/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/EJustice1/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/EJustice1/Leetcode/tree/master/0724-find-pivot-index) |
 ## Dynamic Programming
 |  |
 | ------- |
