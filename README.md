@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/EJustice1/Leetcode/tree/master/0029-divide-two-integers) |
+| [0338-counting-bits](https://github.com/EJustice1/Leetcode/tree/master/0338-counting-bits) |
 ## Matrix
 |  |
 | ------- |
@@ -80,4 +81,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/EJustice1/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/EJustice1/Leetcode/tree/master/0238-product-of-array-except-self) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/EJustice1/Leetcode/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
