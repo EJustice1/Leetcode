@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0029-divide-two-integers](https://github.com/EJustice1/Leetcode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/EJustice1/Leetcode/tree/master/0050-powx-n) |
 | [0633-sum-of-square-numbers](https://github.com/EJustice1/Leetcode/tree/master/0633-sum-of-square-numbers) |
+| [1585-the-kth-factor-of-n](https://github.com/EJustice1/Leetcode/tree/master/1585-the-kth-factor-of-n) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -91,4 +92,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/EJustice1/Leetcode/tree/master/0338-counting-bits) |
+## Number Theory
+|  |
+| ------- |
+| [1585-the-kth-factor-of-n](https://github.com/EJustice1/Leetcode/tree/master/1585-the-kth-factor-of-n) |
 <!---LeetCode Topics End-->
