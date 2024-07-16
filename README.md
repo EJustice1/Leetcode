@@ -50,4 +50,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/EJustice1/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Math
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/EJustice1/Leetcode/tree/master/0029-divide-two-integers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/EJustice1/Leetcode/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
