@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/EJustice1/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/EJustice1/Leetcode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/EJustice1/Leetcode/tree/master/0041-first-missing-positive) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/EJustice1/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Sliding Window
 |  |
 | ------- |
@@ -29,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/EJustice1/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/EJustice1/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/EJustice1/Leetcode/tree/master/0724-find-pivot-index) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/EJustice1/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -45,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0011-container-with-most-water](https://github.com/EJustice1/Leetcode/tree/master/0011-container-with-most-water) |
 | [0633-sum-of-square-numbers](https://github.com/EJustice1/Leetcode/tree/master/0633-sum-of-square-numbers) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/EJustice1/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Greedy
 |  |
 | ------- |
@@ -96,4 +99,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1585-the-kth-factor-of-n](https://github.com/EJustice1/Leetcode/tree/master/1585-the-kth-factor-of-n) |
+## Sorting
+|  |
+| ------- |
+| [1798-max-number-of-k-sum-pairs](https://github.com/EJustice1/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 <!---LeetCode Topics End-->
