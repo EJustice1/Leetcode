@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/EJustice1/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/EJustice1/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [1894-merge-strings-alternately](https://github.com/EJustice1/Leetcode/tree/master/1894-merge-strings-alternately) |
+| [2487-optimal-partition-of-string](https://github.com/EJustice1/Leetcode/tree/master/2487-optimal-partition-of-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -16,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0036-valid-sudoku](https://github.com/EJustice1/Leetcode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/EJustice1/Leetcode/tree/master/0041-first-missing-positive) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/EJustice1/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2487-optimal-partition-of-string](https://github.com/EJustice1/Leetcode/tree/master/2487-optimal-partition-of-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -54,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/EJustice1/Leetcode/tree/master/0011-container-with-most-water) |
+| [2487-optimal-partition-of-string](https://github.com/EJustice1/Leetcode/tree/master/2487-optimal-partition-of-string) |
 ## Linked List
 |  |
 | ------- |
