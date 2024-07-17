@@ -11,13 +11,16 @@
  * };
  */
 class Solution {
-    private:
-set<int> todelete;
-vector<TreeNode*> forest;
+private:
+    set<int> todelete;
+    vector<TreeNode*> forest;
+
 public:
     vector<TreeNode*> delNodes(TreeNode* root, vector<int>& to_delete) {
+        if (!root)
+            return {};
         todelete = set<int>(to_delete.begin(), to_delete.end());
-        
+
         delNodesHelper(root);
         if (!todelete.contains(root->val))
             forest.push_back(root);
@@ -33,9 +36,6 @@ public:
     }
 
     void delNodesHelper(TreeNode* root) {
-        if (!root)
-            return;
-
         if (root->right) {
             delNodesHelper(root->right);
 
