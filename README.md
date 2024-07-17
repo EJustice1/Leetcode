@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/EJustice1/Leetcode/tree/master/0011-container-with-most-water) |
 | [0036-valid-sudoku](https://github.com/EJustice1/Leetcode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/EJustice1/Leetcode/tree/master/0041-first-missing-positive) |
+| [0136-single-number](https://github.com/EJustice1/Leetcode/tree/master/0136-single-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/EJustice1/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/EJustice1/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/EJustice1/Leetcode/tree/master/0724-find-pivot-index) |
@@ -83,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/EJustice1/Leetcode/tree/master/0029-divide-two-integers) |
+| [0136-single-number](https://github.com/EJustice1/Leetcode/tree/master/0136-single-number) |
 | [0338-counting-bits](https://github.com/EJustice1/Leetcode/tree/master/0338-counting-bits) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/EJustice1/Leetcode/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 ## Matrix
