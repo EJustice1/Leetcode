@@ -2,7 +2,7 @@ class Solution {
 public:
     int singleNumber(vector<int>& nums) {
         int n = 0;
-        for (int num : nums)
+        for (int& num : nums)
             n = n ^ num;
         return n;
     }
