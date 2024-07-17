@@ -11,31 +11,33 @@
  * };
  */
 class Solution {
+    private:
+set<int> todelete;
+vector<TreeNode*> forest;
 public:
     vector<TreeNode*> delNodes(TreeNode* root, vector<int>& to_delete) {
-        set<int> todelete(to_delete.begin(), to_delete.end());
-        vector<TreeNode*> returnVect;
-        delNodesHelper(root, returnVect, todelete);
+        todelete = set<int>(to_delete.begin(), to_delete.end());
+        
+        delNodesHelper(root);
         if (!todelete.contains(root->val))
-            returnVect.push_back(root);
+            forest.push_back(root);
         else {
             if (root->right)
-                returnVect.push_back(root->right);
+                forest.push_back(root->right);
             if (root->left)
-                returnVect.push_back(root->left);
+                forest.push_back(root->left);
             delete root;
         }
 
-        return returnVect;
+        return forest;
     }
 
-    void delNodesHelper(TreeNode* root, vector<TreeNode*>& forest,
-                        set<int>& todelete) {
+    void delNodesHelper(TreeNode* root) {
         if (!root)
             return;
 
         if (root->right) {
-            delNodesHelper(root->right, forest, todelete);
+            delNodesHelper(root->right);
 
             if (todelete.contains(root->right->val)) {
                 if (root->right->right)
@@ -49,7 +51,7 @@ public:
         }
 
         if (root->left) {
-            delNodesHelper(root->left, forest, todelete);
+            delNodesHelper(root->left);
 
             if (todelete.contains(root->left->val)) {
 
