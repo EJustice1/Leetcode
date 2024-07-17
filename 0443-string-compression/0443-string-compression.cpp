@@ -3,7 +3,7 @@ public:
     int compress(vector<char>& chars) {
         char lastchar = chars[0];
         int len = 0;
-        int writeIndex = 0;
+        size_t writeIndex = 0;
 
         for (char c : chars) {
             if (lastchar != c) {
