@@ -5,7 +5,6 @@ public:
         int len = 0;
 
         int writeIndex = 0;
-        int readIndex = 0;
 
         for (char c : chars) {
             if (lastchar != c) {
