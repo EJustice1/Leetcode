@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/EJustice1/Leetcode/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/EJustice1/Leetcode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/EJustice1/Leetcode/tree/master/0050-powx-n) |
 | [0633-sum-of-square-numbers](https://github.com/EJustice1/Leetcode/tree/master/0633-sum-of-square-numbers) |
