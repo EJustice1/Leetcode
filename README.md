@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/EJustice1/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/EJustice1/Leetcode/tree/master/0008-string-to-integer-atoi) |
+| [0443-string-compression](https://github.com/EJustice1/Leetcode/tree/master/0443-string-compression) |
 | [1894-merge-strings-alternately](https://github.com/EJustice1/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2487-optimal-partition-of-string](https://github.com/EJustice1/Leetcode/tree/master/2487-optimal-partition-of-string) |
 ## Hash Table
@@ -52,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/EJustice1/Leetcode/tree/master/0011-container-with-most-water) |
+| [0443-string-compression](https://github.com/EJustice1/Leetcode/tree/master/0443-string-compression) |
 | [0633-sum-of-square-numbers](https://github.com/EJustice1/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/EJustice1/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/EJustice1/Leetcode/tree/master/1894-merge-strings-alternately) |
